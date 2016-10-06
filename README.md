@@ -168,10 +168,10 @@ from public sources and replacing the online course videos over time. I like usi
 
 ## Interview Process & General Interview Prep
 
-- [ ] Videos:
-    - [ ] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
-    - [ ] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
-    - [ ] https://www.youtube.com/watch?v=8npJLXkcmu8
+- [x] Videos:
+    - [x] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
+    - [x] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
+    - [x] https://www.youtube.com/watch?v=8npJLXkcmu8
 
 - [ ] Articles:
     - [ ] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
