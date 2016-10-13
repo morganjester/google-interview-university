@@ -177,11 +177,11 @@ from public sources and replacing the online course videos over time. I like usi
     - [x] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
     - [ ] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
         - all the things he mentions that you need to know are listed below
-    - [x] (very dated) http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
-    - [ ] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+    - [x] very dated http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
+    - [x] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
 - [ ] Additional (not suggested by Google but I added):
-    - [ ] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
+    - [x] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
     - [ ] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
     - [ ] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
     - [ ] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
