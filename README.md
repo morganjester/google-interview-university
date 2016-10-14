@@ -189,9 +189,9 @@ from public sources and replacing the online course videos over time. I like usi
     - [ ] Cracking The Coding Interview Set 1:
         - [ ] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
         - [ ] https://www.youtube.com/watch?v=aClxtDcdpsQ
-    - [ ] How to Get a Job at the Big 4:
-        - [ ] https://www.youtube.com/watch?v=YJZCUhxNCv8
-    - [ ] http://alexbowe.com/failing-at-google-interviews/
+    - [x] How to Get a Job at the Big 4:
+        - [x] https://www.youtube.com/watch?v=YJZCUhxNCv8
+    - [x] http://alexbowe.com/failing-at-google-interviews/
 
 
 ## Prerequisite Knowledge
