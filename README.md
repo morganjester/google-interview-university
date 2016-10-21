@@ -393,16 +393,16 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - No need to implement
 
 - ### Stack
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
-    - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html
+    - [x] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
+    - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html
     - [x] Implemented
 
 - ### Queue
-    - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
+    - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
+    - [x] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
     - [ ] Circular buffer/FIFO: https://en.wikipedia.org/wiki/Circular_buffer
     - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html
-    - [ ] Implement using linked-list, with tail pointer:
+    - [x] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
