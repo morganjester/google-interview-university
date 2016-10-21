@@ -374,20 +374,20 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - https://www.eskimo.com/~scs/cclass/int/sx8.html
     - [ ] implement (I did with tail pointer & without):
-        - [ ] size() - returns number of data elements in list
-        - [ ] empty() - bool returns true if empty
+        - [x] size() - returns number of data elements in list
+        - [x] empty() - bool returns true if empty
         - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove front item and return its value
-        - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
-        - [ ] front() - get value of front item
-        - [ ] back() - get value of end item
+        - [x] push_front(value) - adds an item to the front of the list
+        - [x] pop_front() - remove front item and return its value
+        - [x] push_back(value) - adds an item at the end
+        - [x] pop_back() - removes end item and returns its value
+        - [x] front() - get value of front item
+        - [x] back() - get value of end item
         - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [ ] erase(index) - removes node at given index
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
-        - [ ] remove_value(value) - removes the first item in the list with this value
+        - [x] reverse() - reverses the list
+        - [x] remove_value(value) - removes the first item in the list with this value
     - [ ] Doubly-linked List
         - Description: https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists
         - No need to implement
@@ -395,7 +395,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - ### Stack
     - [ ] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
     - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html
-    - [ ] Will not implement. Implementing with array is trivial.
+    - [x] Implemented
 
 - ### Queue
     - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
@@ -406,7 +406,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [ ] Implement using fixed-sized array:
+    - [x] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
