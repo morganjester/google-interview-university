@@ -304,7 +304,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - [ ] Skiena:
     - video: https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
     - slides: http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf
-- [ ] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
+- [x] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
 - [ ] Orders of Growth: https://class.coursera.org/algorithmicthink1-004/lecture/59
 - [ ] Asymptotics: https://class.coursera.org/algorithmicthink1-004/lecture/61
 - [ ] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
@@ -314,7 +314,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - Computational Complexity: Section 1: https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/
     - Computational Complexity: Section 2: https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/
-- [ ] Cheat sheet: http://bigocheatsheet.com/
+- [x] Cheat sheet: http://bigocheatsheet.com/
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
@@ -360,7 +360,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 - ### Linked Lists
     - [ ] Description:
-        - [ ] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
+        - [x] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
         - [ ] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
     - [ ] C Code: https://www.youtube.com/watch?v=QN6FPiD0Gzo
             - not the whole video, just portions about Node struct and memory allocation.
@@ -388,7 +388,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [x] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - Description: https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists
         - No need to implement
 
@@ -411,7 +411,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [ ] Cost:
+    - [x] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
@@ -493,8 +493,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 ## Trees
 
 - ### Trees - Notes & Background
-    - [ ] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
-    - [ ] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
+    - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
+    - [x] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
     - basic tree construction
     - traversal
     - manipulation algorithms
@@ -515,10 +515,10 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-    - [ ] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
+    - [x] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+    - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
         - starts with symbol table and goes through BST applications
-    - [ ] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
+    - [x] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
     - [ ] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
     - C/C++:
         - [ ] https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28
@@ -532,16 +532,16 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36
         - [ ] https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
     - [ ] Implement:
-        - [ ] insert    // insert value into tree
+        - [x] insert    // insert value into tree
         - [ ] get_node_count // get count of values stored
         - [ ] print_values // prints the values in the tree, from min to max
         - [ ] delete_tree
-        - [ ] is_in_tree // returns true if given value exists in the tree
+        - [x] is_in_tree // returns true if given value exists in the tree
         - [ ] get_height // returns the height in nodes (single node's height is 1)
-        - [ ] get_min   // returns the minimum value stored in the tree
-        - [ ] get_max   // returns the maximum value stored in the tree
-        - [ ] is_binary_search_tree
-        - [ ] delete_value
+        - [x] get_min   // returns the minimum value stored in the tree
+        - [x] get_max   // returns the maximum value stored in the tree
+        - [x] is_binary_search_tree
+        - [x] delete_value
         - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
