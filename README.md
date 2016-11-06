@@ -301,7 +301,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - [x] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
 - [x] Big O Notation (and Omega and Theta) - best mathematical explanation:
     - https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
-- [ ] Skiena:
+- [x] Skiena:
     - video: https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
     - slides: http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf
 - [x] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
@@ -400,8 +400,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - ### Queue
     - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
     - [x] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
-    - [ ] Circular buffer/FIFO: https://en.wikipedia.org/wiki/Circular_buffer
-    - [ ] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html
+    - [x] Circular buffer/FIFO: https://en.wikipedia.org/wiki/Circular_buffer
+    - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html
     - [x] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
