@@ -307,8 +307,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - [x] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
 - [ ] Orders of Growth: https://class.coursera.org/algorithmicthink1-004/lecture/59
 - [ ] Asymptotics: https://class.coursera.org/algorithmicthink1-004/lecture/61
-- [ ] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
-- [ ] UC Berkeley Big Omega: https://youtu.be/ca3e7UVmeUc
+- [x] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
+- [x] UC Berkeley Big Omega: https://youtu.be/ca3e7UVmeUc
 - [ ] Amortized Analysis: https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
 - [ ] Illustrating "Big O": https://class.coursera.org/algorithmicthink1-004/lecture/63
 - [ ] TopCoder (includes recurrence relations and master theorem):
@@ -519,7 +519,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
         - starts with symbol table and goes through BST applications
     - [x] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
-    - [ ] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
+    - [x] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
     - C/C++:
         - [ ] https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28
         - [ ] https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29
