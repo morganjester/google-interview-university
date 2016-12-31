@@ -458,8 +458,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 - ### Binary search
     - [ ] https://www.youtube.com/watch?v=D5SrAga1pno
     - [ ] https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
-    - [ ] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
-    - [ ] Implement:
+    - [x] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+    - [x] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
@@ -537,7 +537,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] print_values // prints the values in the tree, from min to max
         - [ ] delete_tree
         - [x] is_in_tree // returns true if given value exists in the tree
-        - [ ] get_height // returns the height in nodes (single node's height is 1)
+        - [x] get_height // returns the height in nodes (single node's height is 1)
         - [x] get_min   // returns the minimum value stored in the tree
         - [x] get_max   // returns the maximum value stored in the tree
         - [x] is_binary_search_tree
@@ -600,7 +600,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         If you end up implementing red/black tree try just these:
         - search and insertion functions, skipping delete
     - I want to learn more about B-Tree since it's used so widely with very large data sets.
-    - [ ] Self-balancing binary search tree: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+    - [x] Self-balancing binary search tree: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
 
     - [ ] **AVL trees**
         - In practice:
@@ -609,7 +609,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             balanced than red–black trees, leading to slower insertion and removal but faster retrieval. This makes it
             attractive for data structures that may be built once and loaded without reconstruction, such as language
             dictionaries (or program dictionaries, such as the opcodes of an assembler or interpreter).
-        - [ ] MIT AVL Trees / AVL Sort: https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6
+        - [x] MIT AVL Trees / AVL Sort: https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6
         - [ ] https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees
         - [ ] https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation
         - [ ] https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge
@@ -731,9 +731,9 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [ ] https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c
 
 - [x] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
-    - [ ] Quicksort O(n log n) average case
-    - Selection sort and insertion sort are both O(n^2) average and worst case
+    - [x] Mergesort: O(n log n) average and worst case
+    - [x] Quicksort O(n log n) average case
+    - [x] Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above.
 
 - [ ] For curiosity - not required:
