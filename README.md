@@ -186,9 +186,9 @@ from public sources and replacing the online course videos over time. I like usi
     - [x] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
     - [x] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
     - [x] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
-    - [ ] Cracking The Coding Interview Set 1:
-        - [ ] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
-        - [ ] https://www.youtube.com/watch?v=aClxtDcdpsQ
+    - [x] Cracking The Coding Interview Set 1:
+        - [x] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+        - [x] https://www.youtube.com/watch?v=aClxtDcdpsQ
     - [x] How to Get a Job at the Big 4:
         - [x] https://www.youtube.com/watch?v=YJZCUhxNCv8
     - [x] http://alexbowe.com/failing-at-google-interviews/
